@@ -19,7 +19,8 @@ about:
 skills:
   - groupName: Cloud
     list:
-      - AzureAD & Azure AD Connect - Intune
+      - AzureAD & Azure AD Connect - Intune - O365
+      - OneDrive - Sharepoint
 
   - groupName: Virtualization & Containers
     list:
