@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Travis Baraki | Resume"
+title: "Resume | MERT BAKIR"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4-tgb"
 
@@ -52,35 +52,45 @@ params:
   header:
     avatar: avatar.jpg
     contact: true
-    tagline: false
-    links: true
+    tagline: true
+    links: false
   side:
-    - feature: about
-      title: About Me
-    - feature: education
-    - feature: certificates
-      title: Certifications
+    - feature: languages
     - feature: skills
       widget: word-list
       style: compact # list, compact, title-list
-
+    - feature: education
+    - feature: interests
+      widget: word-list
+      style: list
   pages:
     - features:
+        - feature: about
+          title: About Me
         - feature: experience
+    - features:
         - feature: projects
           collection: projects
-      
+        - feature: publications
+          style: IEEE # IEEE, APA, else
+        - feature: awards
+        - feature: certificates
+          title: Certifications
+        - feature: interests
+          widget: word-list
+          style: list
+        
   footer:
     show: true
     credits: true
     footnote: >-
       You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01.
     links:
-      # - prefix: Contact me on
-      #   title: LinkedIn
-      #   url: 'https://linkedin.com/in/tbaraki/'
-      #   icon: fab fa-linkedin
-      # - prefix: Check out my
-      #   title: Website
-      #   url: 'https://tbaraki.net'
-      #   icon: fas fa-globe
+      - prefix: Contact me on
+        title: Linkedin
+        url: 'https://linkedin.com/in/mertbakir/'
+        icon: fab fa-linkedin
+      - prefix: Check out my
+        title: Website
+        url: 'https://mertbakir.gitlab.io/about/'
+        icon: fas fa-globe
