@@ -1,0 +1,25 @@
+- company: Spreckels Union School District
+  roles: 
+    - role: Information Services Director
+      date: "July 2015 - Present"
+    
+    - role: District Technology Coordinator
+      date: "July 2014 - June 2015"
+    
+    - role: Technology Aide
+      date: "September 2013 - June 2014"
+      details: "- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+      
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla."
+      
+
+- company: Catalina Island Marine Institute
+  roles:
+    - role: Marine Science Instructor
+      date: "January 2009 - November 2011"
+      details: "- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+      
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla."
+      

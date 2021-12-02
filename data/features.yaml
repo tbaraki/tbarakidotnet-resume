@@ -1,0 +1,66 @@
+about:
+  name: Travis Baraki
+  tagline: Systems Administrator
+  phone: "831-915-6718"
+  email: travis@tbaraki.net
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/tbaraki
+      icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/tbaraki
+      icon: fab fa-github
+    - title: tbaraki.net
+      url: https://tbaraki.net
+      icon: fas fa-globe
+  details: |
+    Experienced SysAdmin committed to secure, efficient, and effective IT governance.
+
+skills:
+  - groupName: Cloud
+    list:
+      - AzureAD & Azure AD Connect - Intune
+
+  - groupName: Virtualization & Containers
+    list:
+      - Hyper-V - VMware ESXi - vCenter - PowerCLI
+      - Docker Compose - Traefik
+      - Veeam Backup and Recovery
+
+  - groupName: Networking
+    list:
+      - Fortigate - SSL/IPSEC VPN
+      - Cisco Catalyst - Meraki WiFi
+
+interests:
+  - Data Science
+  - AI Applications
+  - Optimization Problems
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "AZ-104"
+    subtitle: Microsoft Azure Administrator
+    date: "January 2022"
+    #link: https://xkcd.com/605/ # This link will be on title level.
+  - title: "AZ-900"
+    subtitle: Microsoft Azure Fundamentals
+    date: "December 2021"
+    #link: https://xkcd.com/605/ # This link will be on title level.
