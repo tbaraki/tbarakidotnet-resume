@@ -19,48 +19,53 @@ about:
 skills:
   - groupName: Cloud
     list:
-      - AzureAD & Azure AD Connect - Intune
+      - AzureAD & Azure AD Connect - Intune - O365
 
   - groupName: Virtualization & Containers
     list:
-      - Hyper-V - VMware ESXi - vCenter - PowerCLI
+      - VMware ESXi - PowerCLI
       - Docker Compose - Traefik
       - Veeam Backup and Recovery
 
   - groupName: Networking
     list:
       - Fortigate - SSL/IPSEC VPN
-      - Cisco Catalyst - Meraki WiFi
+      - Cisco Catalyst
 
-interests:
-  - Data Science
-  - AI Applications
-  - Optimization Problems
+  - groupName: Monitoring
+    list:
+      - SNMP - Prometheus - Grafana
+      - Telegraf - InfluxDB
+
+# interests:
+#   - Data Science
+#   - AI Applications
+#   - Optimization Problems
 
 # This will use the default widget: "details-list"
-awards:
-  - title: "Tübitak - Graduation Project"
-    date: "2017"
-    subtitle: "A Decision Support System for 3D Cutting Problem"
+# awards:
+#   - title: "Example Award - Graduation Project"
+#     date: "2017"
+#     subtitle: "Example subtitle for aware"
     #details: |
     #   - add more here if you like to.
     #   - or just comment out/delete the field.
-    links:
-      - title: example
-        url: https://mertbakir.gitlab.io
-        icon: fas fa-bolt
-        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
-      - title: second link.
-        url: https://esdfdsfdsf
-        icon: "-" # you can get rid of the icon by entering dummy text
-        prefix: "omg"
+    # links:
+    #   - title: example
+    #     url: https://google.com
+    #     icon: fas fa-bolt
+    #     prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+    #   - title: second link.
+    #     url: https://esdfdsfdsf
+    #     icon: "-" # you can get rid of the icon by entering dummy text
+    #     prefix: "omg"
 
 certificates:
   - title: "AZ-104"
     subtitle: Microsoft Azure Administrator
     date: "January 2022"
-    #link: https://xkcd.com/605/ # This link will be on title level.
+    #link: https://google.com/ # This link will be on title level.
   - title: "AZ-900"
     subtitle: Microsoft Azure Fundamentals
     date: "December 2021"
-    #link: https://xkcd.com/605/ # This link will be on title level.
+    #link: https://google.com/ # This link will be on title level.

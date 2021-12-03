@@ -53,6 +53,7 @@
 	{{ if .Site.Params.footer.show }}
 	<footer>
 		{{ partial "footer" (dict "Footer" .Site.Params.footer "useFontAwesome" .Site.Params.useFontAwesome) }}
+		<!-- {{ partial "getDate.html" .}} -->
 	</footer>
 	{{ end }}
 </body>

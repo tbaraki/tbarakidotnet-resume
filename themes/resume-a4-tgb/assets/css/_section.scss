@@ -11,9 +11,10 @@
 }
 
 .section-title {
-  border-left: solid 0.35rem $accent;
-  padding-left: 0.4rem;
+  // border-left: solid 0.35rem $accent;
+  // padding-left: 0.4rem;
   font-family: $font-1;
+  border-bottom: solid .2rem $text-color;
 }
 
 .item {

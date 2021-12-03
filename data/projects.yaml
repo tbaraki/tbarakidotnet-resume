@@ -7,15 +7,7 @@ projects:
               - Lorem ipsum dolor sit amet
 
                - More information and details"
-    
-
-- title: "Big Project #2"
-  #subtitle: "mertbakir.gitlab.io/resume"
-  #link: "https://gitlab.com/mertbakir/resume-a4"
-  #date: "2020"
-  details: |
-    Bring CI/CD to your resume using YAML and Git.
-  # links:
-  # - title: Available in GitLab
-  #   url: https://gitlab.com/mertbakir/resume-a4
-  #   icon: fab fa-gitlab
+  links:
+  - title: Link to project
+    url: https://google.com
+    icon: fab fa-gitlab
