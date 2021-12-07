@@ -69,7 +69,7 @@ params:
   css:
     - custom.scss
   header:
-    avatar: avatar.jpg
+    avatar: false
     contact: true
     tagline: false
     links: true
