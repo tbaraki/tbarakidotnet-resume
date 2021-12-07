@@ -14,13 +14,13 @@ about:
       url: https://tbaraki.net
       icon: fas fa-globe
   details: |
-    Experienced SysAdmin committed to secure, efficient, and effective IT governance.
+    Experienced IT leader committed to secure, efficient, and effective IT governance.
 
 skills:
   - groupName: Cloud
     list:
-      - AzureAD & Azure AD Connect - Intune - O365
-      - OneDrive - Sharepoint
+      - AzureAD - Intune - Autopilot
+      - Office 365 - Google Workspace
 
   - groupName: Virtualization & Containers
     list:
@@ -30,18 +30,19 @@ skills:
 
   - groupName: Networking
     list:
-      - Fortigate - SSL/IPSEC VPN
+      - Fortigate - SSL & IPSEC VPN
       - Cisco Catalyst
 
   - groupName: Monitoring
     list:
-      - SNMP - Prometheus - Grafana
+      - SNMP - Netflow
+      - Prometheus - Grafana
       - Telegraf - InfluxDB
 
 # interests:
-#   - Data Science
-#   - AI Applications
-#   - Optimization Problems
+#   - User experience
+#   - Resilient systems
+#   - Data security and privacy
 
 # This will use the default widget: "details-list"
 # awards:
@@ -64,9 +65,11 @@ skills:
 certificates:
   - title: "AZ-104"
     subtitle: Microsoft Azure Administrator
-    date: "January 2022"
+    #date: "In progress: targeting 1/2022"
+    details: "In progress: targeting 1/2022"
     #link: https://google.com/ # This link will be on title level.
   - title: "AZ-900"
     subtitle: Microsoft Azure Fundamentals
-    date: "December 2021"
+    #date: "In progress: exam 12/2021"
+    details: "In progress: sitting exam 12/2021"
     #link: https://google.com/ # This link will be on title level.
