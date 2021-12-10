@@ -52,7 +52,7 @@ main.paper {
     height: 100%;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-rows: repeat(7, 1fr);
     grid-column-gap: 0;
     grid-row-gap: 0;
 
@@ -139,6 +139,10 @@ main.paper {
     h1 {
       margin-bottom: 0.5rem;
       font-size: 1.2rem;
+    }
+
+    .section-about > h1:nth-child(1) {
+      padding-top: 0.35rem; // aligns first section header in right columns with that of the left column.
     }
 
     h2 {
