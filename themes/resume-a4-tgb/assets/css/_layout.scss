@@ -2,8 +2,8 @@
   position: relative;
   margin: 0.5rem auto;
   padding: 0.45in 0.5in;
-  width: 210mm;
-  height: 297mm;
+  width: 215.9mm;
+  height: 279.4mm;
   background-color: #fff;
   -webkit-box-shadow: 0.2rem 0.2rem 0.6rem #aaa;
   -moz-box-shadow: 0.2rem 0.2rem 0.6rem #aaa;
@@ -107,12 +107,8 @@ main.paper {
   }
 
   .left-column, .right-column {
-    // margin-top: 0.75rem;
+    //margin-top: 0.75rem;
 
-    > *:first-child,
-    > *:first-child > *:first-child {
-      margin-top: 0;
-    }
   }
 
   .left-column {

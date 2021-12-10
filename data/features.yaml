@@ -14,10 +14,10 @@ about:
       url: https://tbaraki.net
       icon: fas fa-globe
   details: |
-    Experienced IT leader committed to secure, efficient, and effective IT governance.
+    Experienced IT leader committed to secure, efficient, and effective IT operations.
 
 skills:
-  - groupName: Cloud
+  - groupName: Endpoint
     list:
       - AzureAD - Intune - Autopilot
       - Office 365 - Google Workspace

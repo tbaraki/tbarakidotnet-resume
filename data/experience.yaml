@@ -11,13 +11,11 @@
       
       details: "Led the modernization of the District's technology program. Hired, supervised, and mentored Tier I support staff. Major initiatives include:
 
-      - Redesigned the network edge, core, and WAN to meet performance and security goals.
-
-      - Deployed and maintained resilient ESXi and SAN infrastructure to support critical workloads. 
+      - Redesigned the network edge, core, and WAN to meet performance and security goals. Deployed and maintained resilient ESXi and SAN infrastructure to support critical workloads. 
 
       - Developed data backup and disaster recovery processes. Identified a suitable Recovery Point Objective (RPO) and Recovery Time Objective (RTO).
 
-      - Designed MFA and Conditional Access policies to protect high value accounts and services.
+      - Designed MFA and Conditional Access policies to protect high value assets.
 
       - Automated user account creation processes, SSO enrollment, and rostering of SaaS applications.
 
@@ -25,7 +23,7 @@
 
       - Led the migration from on-premesis Active Directory to Hybrid AzureAD, Office 365, Intune, and Autopilot to empower staff working remotely.
 
-      - Collaborated with the Chief Business Official to develop a long term budget forecast and identify efficiency opportunities.
+      - Collaborated with the Chief Business Official to develop a long term budget forecast and hardware lifecycle.
       
       - Managed the deployment and lifecycle of 1000 student Chromebooks to support modern instruction and improve educational outcomes."
 

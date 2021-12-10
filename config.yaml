@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://resume.tbaraki.net"
 languageCode: "en-us"
 title: "Travis Baraki | Resume"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
