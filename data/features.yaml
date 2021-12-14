@@ -63,13 +63,14 @@ skills:
     #     prefix: "omg"
 
 certificates:
+  - title: "AZ-900"
+    subtitle: Microsoft Azure Fundamentals
+    date: "12/2021"
+    #details: "Target: 12/2021"
+    #link: https://google.com/ # This link will be on title level.
   - title: "AZ-104"
     subtitle: Microsoft Azure Administrator
     date: "In progress"
     details: "Target: 1/2022"
     #link: https://google.com/ # This link will be on title level.
-  - title: "AZ-900"
-    subtitle: Microsoft Azure Fundamentals
-    date: "In progress"
-    details: "Target: 12/2021"
-    #link: https://google.com/ # This link will be on title level.
+  
