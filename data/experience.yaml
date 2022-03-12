@@ -1,7 +1,12 @@
+- company: Ygrene Energy Fund
+  roles:
+    - role: IT System Administrator
+      date: "March 2022 - Present"
+
 - company: Spreckels Union School District
   roles: 
     - role: Information Services Director
-      date: "July 2015 - Present"
+      date: "July 2015 - February 2022"
     
     - role: District Technology Coordinator
       date: "July 2014 - June 2015"
@@ -21,11 +26,7 @@
 
       - Introduced a ticket-based workflow for IT issues. Identified Key Performance Indicators (KPIs) and set Service Level Agreement (SLA) targets.
 
-      - Led the migration from on-premises Active Directory to Hybrid AzureAD, Office 365, Intune, and Autopilot to empower staff working remotely.
-
-      - Collaborated with the Chief Business Official to develop a long term budget forecast and hardware lifecycle.
-      
-      - Managed the deployment and lifecycle of 1000 student Chromebooks to support modern instruction and improve educational outcomes."
+      - Led the migration from on-premises Active Directory to Hybrid AzureAD, Office 365, Intune, and Autopilot to empower staff working remotely."
 
 - company: Loaves, Fishes & Computers
   roles:
@@ -37,11 +38,11 @@
   roles:
     - role: Gallery Interpreter & Science Demonstrator
       date: "December 2011 - August 2012"
-      details: "Developed and delivered captivating demonstrations to showcase physics and chemistry concepts."
+      # details: "Developed and delivered captivating demonstrations to showcase physics and chemistry concepts."
 
 - company: Catalina Island Marine Institute
   roles:
     - role: Marine Science Instructor
       date: "January 2009 - November 2011"
-      details: "Delivered an engaging and effective marine science education to students in an outdoor classroom setting. Provided A/V support to clients."
+      # details: "Delivered an engaging and effective marine science education to students in an outdoor classroom setting. Provided A/V support to clients."
       
