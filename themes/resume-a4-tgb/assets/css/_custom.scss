@@ -14,6 +14,10 @@ main.paper {
   }
 }
 
+div.group:nth-child(2) > h2:nth-child(1) {
+  margin-top: 0;
+}
+
 @media print {
   a {
     // use if you want to print the url
