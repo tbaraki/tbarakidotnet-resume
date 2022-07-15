@@ -19,25 +19,27 @@ about:
 skills:
   - groupName: Identity & Collaboration
     list:
-      - AzureAD - Intune - Autopilot
-      - Office 365 - Google Workspace
+      - Active Directory - AzureAD
+      - Office 365 - SharePoint - Teams
+      - Okta SSO
+
+  - groupName: Mobile Device Management
+    list:
+      - Intune - Autopilot
+      - Apple Business Manager - VPP
+      - Google Workspace
 
   - groupName: Virtualization & Containers
     list:
+      - Azure - AWS
       - VMware ESXi - PowerCLI
-      - Docker Compose - Traefik
-      - Veeam Backup and Recovery
+      - Docker Compose
+      - Veeam - Druva
 
   - groupName: Networking
     list:
       - Fortigate - SSL & IPSEC VPN
       - Cisco Catalyst
-
-  - groupName: Monitoring
-    list:
-      - SNMP - Netflow
-      - Prometheus - Grafana
-      - Telegraf - InfluxDB
 
 # interests:
 #   - User experience
