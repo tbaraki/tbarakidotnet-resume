@@ -35,7 +35,7 @@ skills:
     list:
       - Azure - AWS EC2
       - VMware ESXi - PowerCLI
-      - Docker Compose - Traefik
+      - Docker Compose
       - Veeam Backup and Recovery
 
   - groupName: Networking

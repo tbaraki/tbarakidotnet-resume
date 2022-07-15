@@ -106,10 +106,9 @@ main.paper {
     }
   }
 
-  .left-column, .right-column {
-    //margin-top: 0.75rem;
-
-  }
+  // .left-column, .right-column {
+  //   //margin-top: 0.75rem;
+  // }
 
   .left-column {
     grid-area: 2 / 1 / 7 / 6;
@@ -118,6 +117,10 @@ main.paper {
     justify-content: flex-start;
     //border-right: $border-color 0.05rem solid;
     padding-right: 2rem;
+  }
+
+  div.group:nth-child(2) > h2:nth-child(1) {
+    margin-top: 0;
   }
 
   .right-column {
