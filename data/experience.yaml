@@ -3,7 +3,7 @@
     - role: IT System Administrator
       date: "March 2022 - Present"
 
-      details: "- Refined and validated Autopilot deployment profiles to enable zero-touch device deployment to remote employees.
+      details: "- Refined and validated Autopilot deployment profiles to enable zero-touch device deployment to remote users.
 
       - Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.
 
@@ -36,7 +36,7 @@
 
       - Introduced a ticket-based workflow for IT issues. Identified Key Performance Indicators (KPIs) and set Service Level Agreement (SLA) targets.
 
-      - Led the migration from on-premises Active Directory to Hybrid AzureAD, utilizing Intune and Autopilot to empower remote users."
+      - Led the migration from on-premises Active Directory to Hybrid AzureAD, leveraging Intune and Autopilot to empower remote users."
 
 - company: Loaves, Fishes & Computers
   roles:
