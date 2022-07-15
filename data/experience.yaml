@@ -1,7 +1,22 @@
+- company: Ygrene Energy Fund
+  roles:
+    - role: IT System Administrator
+      date: "March 2022 - Present"
+
+      details: "- Refined and validated Autopilot deployment profiles to enable zero-touch device deployment to remote users.
+
+      - Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.
+
+      - Crafted declarative configuration and compliance policies to secure remote endpoints and enhance user experience.
+
+      - Executed AWS projects including EC2 migrations across availability zones, creating new resources, and managing Route 53 records.
+      
+      - Provision and configure Okta SSO for SaaS and private cloud applications."
+
 - company: Spreckels Union School District
   roles: 
     - role: Information Services Director
-      date: "July 2015 - Present"
+      date: "July 2015 - February 2022"
     
     - role: District Technology Coordinator
       date: "July 2014 - June 2015"
@@ -9,39 +24,35 @@
     - role: Technology Aide
       date: "September 2013 - June 2014"
       
-      details: "Led the modernization of the District's technology program. Hired, supervised, and mentored Tier I support staff. Major initiatives include:
+      details: "Led the modernization of the District's technology program. Managed vendor relationships. Hired, supervised, and mentored Tier I support staff. Major initiatives include:
 
-      - Redesigned the network edge, core, and WAN to meet performance and security goals. Deployed and maintained resilient ESXi and SAN infrastructure to support critical workloads. 
-
+      - Redesigned the network edge, core, and WAN to meet performance and security goals.
+      
       - Developed data backup and disaster recovery processes. Identified a suitable Recovery Point Objective (RPO) and Recovery Time Objective (RTO).
 
-      - Designed MFA and Conditional Access policies to protect high value assets.
+      - Designed MFA and Conditional Access policies to secure high-value assets.
 
-      - Automated user account creation processes, SSO enrollment, and rostering of SaaS applications.
+      - Automated user account creation, SSO enrollment, and SaaS application provisioning.
 
       - Introduced a ticket-based workflow for IT issues. Identified Key Performance Indicators (KPIs) and set Service Level Agreement (SLA) targets.
 
-      - Led the migration from on-premises Active Directory to Hybrid AzureAD, Office 365, Intune, and Autopilot to empower staff working remotely.
-
-      - Collaborated with the Chief Business Official to develop a long term budget forecast and hardware lifecycle.
-      
-      - Managed the deployment and lifecycle of 1000 student Chromebooks to support modern instruction and improve educational outcomes."
+      - Led the migration from on-premises Active Directory to Hybrid AzureAD, leveraging Intune and Autopilot to empower remote users."
 
 - company: Loaves, Fishes & Computers
   roles:
     - role: Volunteer Technician
       date: "January 2013 - August 2013"
-      details: "Contributed to computer refurbishing operations, provided IT support to clients, and led computer repair workshops for youth in the community."
+      # details: "Contributed to computer refurbishing operations, provided IT support to clients, and led computer repair workshops for youth in the community."
       
-- company: TELUS World of Science
+- company: TELUS World of Science - Edmonton
   roles:
     - role: Gallery Interpreter & Science Demonstrator
       date: "December 2011 - August 2012"
-      details: "Developed and delivered captivating demonstrations to showcase physics and chemistry concepts."
+      # details: "Developed and delivered captivating demonstrations to showcase physics and chemistry concepts."
 
 - company: Catalina Island Marine Institute
   roles:
     - role: Marine Science Instructor
       date: "January 2009 - November 2011"
-      details: "Delivered an engaging and effective marine science education to students in an outdoor classroom setting. Provided A/V support to clients."
+      # details: "Delivered an engaging and effective marine science education to students in an outdoor classroom setting. Provided A/V support to clients."
       
