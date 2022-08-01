@@ -19,7 +19,7 @@ about:
 skills:
   - groupName: Identity & Collaboration
     list:
-      - Active Directory - AzureAD
+      - Active Directory - Azure AD
       - Office 365 - SharePoint - Teams
       - Okta SSO
 
