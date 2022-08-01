@@ -65,9 +65,15 @@ skills:
     #     prefix: "omg"
 
 certificates:
+  - title: "SC-300"
+    subtitle: Microsoft Identity and Access Administrator Associate
+    date: "8/2022"
   - title: "AZ-900"
     subtitle: Microsoft Azure Fundamentals
     date: "12/2021"
+    #details: "Target: 12/2021"
+    #link: https://google.com/ # This link will be on title level.
+  
     #details: "Target: 12/2021"
     #link: https://google.com/ # This link will be on title level.
     #  - title: "AZ-104"
