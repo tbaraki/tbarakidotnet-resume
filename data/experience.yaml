@@ -1,3 +1,8 @@
+- company: Cradlepoint
+  roles:
+    - role: Security Engineer, IAM
+      date: "September 2022 - Present"
+
 - company: Ygrene Energy Fund
   roles:
     - role: IT System Administrator
@@ -7,11 +12,9 @@
 
       - Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.
 
-      - Crafted declarative configuration and compliance policies to secure remote endpoints and enhance user experience.
-
       - Executed AWS projects including EC2 migrations across availability zones, creating new resources, and managing Route 53 records.
       
-      - Provision and configure Okta SSO for SaaS and private cloud applications."
+      - Provision and configure Okta SSO for SaaS and self-hosted applications."
 
 - company: Spreckels Union School District
   roles: 
@@ -25,8 +28,6 @@
       date: "September 2013 - June 2014"
       
       details: "Led the modernization of the District's technology program. Managed vendor relationships. Hired, supervised, and mentored Tier I support staff. Major initiatives include:
-      
-      - Redesigned the network edge, core, and WAN to meet performance and security goals.
       
       - Developed data backup and disaster recovery processes. Identified a suitable Recovery Point Objective (RPO) and Recovery Time Objective (RTO).
       
