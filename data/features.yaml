@@ -29,15 +29,11 @@ skills:
       - Apple Business Manager - VPP
       - Google Workspace
 
-  - groupName: Virtualization & Containers
+  - groupName: Virtualization & Infrastructure
     list:
       - Azure - AWS
       - VMware ESXi - PowerCLI
-      - Docker Compose
       - Veeam - Druva
-
-  - groupName: Networking
-    list:
       - Fortigate - SSL & IPSEC VPN
       - Cisco Catalyst
 
