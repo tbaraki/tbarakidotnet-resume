@@ -16,26 +16,26 @@ about:
   details: |
     Experienced IT leader committed to secure, efficient, and effective IT operations.
 
-# skills:
-#   - groupName: Identity & Collaboration
-#     list:
-#       - Active Directory - Azure AD
-#       - Office 365 - SharePoint - Teams
-#       - Okta SSO
+skills:
+  - groupName: Identity & Collaboration
+    list:
+      - Active Directory - Azure AD
+      - Office 365 - SharePoint - Teams
+      - Okta SSO
 
-#   - groupName: Mobile Device Management
-#     list:
-#       - Intune - Autopilot
-#       - Apple Business Manager - VPP
-#       - Google Workspace
+  - groupName: Mobile Device Management
+    list:
+      - Intune - Autopilot
+      - Apple Business Manager - VPP
+      - Google Workspace
 
-#   - groupName: Virtualization & Infrastructure
-#     list:
-#       - Azure - AWS
-#       - VMware ESXi - PowerCLI
-#       - Veeam - Druva
-#       - Fortigate - SSL & IPSEC VPN
-#       - Cisco Catalyst
+  - groupName: Virtualization & Infrastructure
+    list:
+      - Azure - AWS
+      - VMware ESXi - PowerCLI
+      - Veeam - Druva
+      - Fortigate - SSL & IPSEC VPN
+      - Cisco Catalyst
 
 # interests:
 #   - User experience

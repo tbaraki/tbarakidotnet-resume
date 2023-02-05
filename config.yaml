@@ -79,9 +79,9 @@ params:
     - feature: education
     - feature: certificates # un-comment once completed
       title: Certifications
-    - feature: skills
-      widget: word-list
-      style: compact # list, compact, title-list
+    # - feature: skills
+    #   widget: word-list
+    #   style: compact # list, compact, title-list
 
   pages:
     - features:
