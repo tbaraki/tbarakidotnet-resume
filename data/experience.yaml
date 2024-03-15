@@ -2,12 +2,12 @@
   roles:
     - role: Security Engineer, IAM
       date: "September 2022 - Present"
-      details: "- Implemented a wholistic redesign of identity provider authentication policies, ensuring controls applied consistently to users and applications.\n- Evaluated and deployed phishing-resistant authenticators to enable passwordless authentication flows.\n- Enforced the use of high assurance (NIST AAL3) authenticators for highly privliged sessions.\n- Developed an infrastructure-as-code driven change management process for critical security controls.\n- Led the evalutation and contributed to the deployment of PAM tooling to support SaaS development teams.\n- Drove the evaluation, deployment, and migration to a new secrets management solution for enterprise users.\n- Wrote identity governance and lifecycle management procedures to support compliance initiatives."
+      details: "- Implemented a wholistic redesign of identity provider authentication policies, ensuring controls applied consistently to all users and applications.\n- Deployed phishing-resistant MFA factors to enable passwordless authentication flows. Enforced the use of high assurance (NIST AAL3) authenticators for highly privliged sessions.\n- Developed an infrastructure-as-code driven change management process for critical security controls.\n- Led the evalutation and contributed to the deployment of PAM tooling to support SaaS development teams.\n- Wrote identity governance policy and procedures to support compliance initiatives."
 - company: Ygrene Energy Fund
   roles:
     - role: IT System Administrator
       date: "March 2022 - July 2022"
-      details: "- Refined and validated Autopilot deployment profiles enabling zero-touch device deployment to remote users.\n- Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.\n- Provision and configure Okta SSO for SaaS and self-hosted applications."
+      details: "- Refined and validated Autopilot deployment profiles enabling zero-touch device deployment to remote users.\n- Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.\n- Provisioned and configured Okta SSO for SaaS and self-hosted applications."
 - company: Spreckels Union School District
   roles:
     - role: Information Services Director

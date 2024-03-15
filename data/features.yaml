@@ -14,69 +14,58 @@ about:
       url: https://tbaraki.net
       icon: fas fa-globe
   details: |
-    Experienced IT leader committed to secure, efficient, and effective IT operations.
-
+    Experienced Security Engineer focused on identity, governance, and automation.
 skills:
   - groupName: Identity & Collaboration
     list:
-      - Active Directory - Azure AD
-      - Office 365 - SharePoint - Teams
-      - Okta SSO
-
-  - groupName: Mobile Device Management
-    list:
-      - Intune - Autopilot
-      - Apple Business Manager - VPP
-      - Google Workspace
-
-  - groupName: Virtualization & Infrastructure
-    list:
-      - Azure - AWS
-      - VMware ESXi - PowerCLI
-      - Veeam - Druva
-      - Fortigate - SSL & IPSEC VPN
-      - Cisco Catalyst
-
-# interests:
-#   - User experience
-#   - Resilient systems
-#   - Data security and privacy
-
-# This will use the default widget: "details-list"
-# awards:
-#   - title: "Example Award - Graduation Project"
-#     date: "2017"
-#     subtitle: "Example subtitle for aware"
-    #details: |
-    #   - add more here if you like to.
-    #   - or just comment out/delete the field.
-    # links:
-    #   - title: example
-    #     url: https://google.com
-    #     icon: fas fa-bolt
-    #     prefix: "This is an " # use quotation marks if you want to pass the tailing space.
-    #   - title: second link.
-    #     url: https://esdfdsfdsf
-    #     icon: "-" # you can get rid of the icon by entering dummy text
-    #     prefix: "omg"
+      - Okta - Entra AD
+      - IGA - PAM - Secrets Management
+      # - groupName: Mobile Device Management
+    # list:
+    # - Intune - Autopilot
+    # - Apple Business Manager - VPP
+    # - Google Workspace
+    # - groupName: Virtualization & Infrastructure
+    # list:
+    # - Cisco Catalyst
+    # interests:
+    #   - User experience
+    #   - Resilient systems
+    #   - Data security and privacy
+    # This will use the default widget: "details-list"
+    # awards:
+    #   - title: "Example Award - Graduation Project"
+    #     date: "2017"
+    #     subtitle: "Example subtitle for aware"
+#details: |
+#   - add more here if you like to.
+#   - or just comment out/delete the field.
+# links:
+#   - title: example
+#     url: https://google.com
+#     icon: fas fa-bolt
+#     prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+#   - title: second link.
+#     url: https://esdfdsfdsf
+#     icon: "-" # you can get rid of the icon by entering dummy text
+#     prefix: "omg"
 
 certificates:
   - title: "Okta Certified Professional"
-    date: "1/2023"
+    date: "01/2023"
   - title: "SC-300"
     subtitle: Microsoft Identity and Access Administrator Associate
-    date: "8/2022"
+    date: "08/2022"
   - title: "AZ-900"
     subtitle: Microsoft Azure Fundamentals
     date: "12/2021"
     #details: "Target: 12/2021"
     #link: https://google.com/ # This link will be on title level.
 
-    #details: "Target: 12/2021"
-    #link: https://google.com/ # This link will be on title level.
-    #  - title: "AZ-104"
-    #subtitle: Microsoft Azure Administrator
-    #date: "In progress"
-    #details: "Target: 1/2022"
-    #link: https://google.com/ # This link will be on title level.
-  
+#details: "Target: 12/2021"
+#link: https://google.com/ # This link will be on title level.
+#  - title: "AZ-104"
+#subtitle: Microsoft Azure Administrator
+#date: "In progress"
+#details: "Target: 1/2022"
+#link: https://google.com/ # This link will be on title level.
