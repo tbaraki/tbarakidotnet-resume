@@ -76,9 +76,9 @@ params:
     - feature: education
     - feature: certificates
       title: Certifications
-      # - feature: skills
-      # widget: word-list
-      # style: compact # list, compact, title-list
+    - feature: skills
+      widget: word-list
+      style: compact # list, compact, title-list
   pages:
     - features:
         - feature: experience

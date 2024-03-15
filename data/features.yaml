@@ -14,29 +14,40 @@ about:
       url: https://tbaraki.net
       icon: fas fa-globe
   details: |
-    Experienced IT leader focused on identity, governance, and automation.
+    Experienced IT leader focused on identity, strong authentication, governance, and automation.
 skills:
-  - groupName: Identity & Collaboration
+  - groupName: Identity
     list:
-      - Okta - Entra AD
-      - IGA - PAM - Secrets Management
-      # - groupName: Mobile Device Management
-    # list:
-    # - Intune - Autopilot
-    # - Apple Business Manager - VPP
-    # - Google Workspace
-    # - groupName: Virtualization & Infrastructure
-    # list:
-    # - Cisco Catalyst
-    # interests:
-    #   - User experience
-    #   - Resilient systems
-    #   - Data security and privacy
-    # This will use the default widget: "details-list"
-    # awards:
-    #   - title: "Example Award - Graduation Project"
-    #     date: "2017"
-    #     subtitle: "Example subtitle for aware"
+      - Okta
+      - Entra AD
+      - MFA
+      - SSO - SAML - OAuth - OIDC
+      - SCIM
+      - IGA
+      - PAM
+      - PIM
+      - Lifecycle Management
+      - B2B Federation
+  - groupName: Compliance Frameworks
+    list:
+      - SOX
+      - SOC2
+      - FedRAMP
+  - groupName: Blue Team
+    list:
+      - EDR
+      - Log Collection
+      - Detection and Response
+      - Threat Hunting
+      # interests:
+      #   - User experience
+      #   - Resilient systems
+      #   - Data security and privacy
+      # This will use the default widget: "details-list"
+      # awards:
+      #   - title: "Example Award - Graduation Project"
+      #     date: "2017"
+      #     subtitle: "Example subtitle for aware"
 #details: |
 #   - add more here if you like to.
 #   - or just comment out/delete the field.
