@@ -3,25 +3,23 @@ languageCode: "en-us"
 title: "Travis Baraki | Resume"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4-tgb"
-
 frontmatter:
   date:
-  - :fileModTime
-  - date
-  - publishDate
-  - lastmod
+    - :fileModTime
+    - date
+    - publishDate
+    - lastmod
   expiryDate:
-  - expiryDate
+    - expiryDate
   lastmod:
-  - date
-  - lastmod
-  - :git
-  - :fileModTime
-  - publishDate
+    - date
+    - lastmod
+    - :git
+    - :fileModTime
+    - publishDate
   publishDate:
-  - publishDate
-  - date
-
+    - publishDate
+    - date
 # Construct main column, side column and additional page from features
 # Every column and page may include any features. Some features are
 # created using generic widgets and you can add easily new features,
@@ -62,7 +60,6 @@ frontmatter:
 #       A list of:
 #         groupName: title of the group
 #         list: list of strings rendered under the group
-
 params:
   useFontAwesome: true
   enableGitInfo: false
@@ -77,29 +74,28 @@ params:
     - feature: about
       title: About Me
     - feature: education
-    - feature: certificates # un-comment once completed
+    - feature: certificates
       title: Certifications
-    # - feature: skills
-    #   widget: word-list
-    #   style: compact # list, compact, title-list
-
+      # - feature: skills
+      # widget: word-list
+      # style: compact # list, compact, title-list
   pages:
     - features:
         - feature: experience
-        # - feature: projects
-        #   collection: projects
-      
+          # - feature: projects
+          #   collection: projects
   footer:
     show: true
     credits: true
     footnote: >-
       The page is formatted to be printed (US Letter | 8.5" x 11") or saved as a PDF.
     links:
-      # - prefix: Contact me on
-      #   title: LinkedIn
-      #   url: 'https://linkedin.com/in/tbaraki/'
-      #   icon: fab fa-linkedin
-      # - prefix: Check out my
-      #   title: Website
-      #   url: 'https://tbaraki.net'
-      #   icon: fas fa-globe
+
+# - prefix: Contact me on
+#   title: LinkedIn
+#   url: 'https://linkedin.com/in/tbaraki/'
+#   icon: fab fa-linkedin
+# - prefix: Check out my
+#   title: Website
+#   url: 'https://tbaraki.net'
+#   icon: fas fa-globe

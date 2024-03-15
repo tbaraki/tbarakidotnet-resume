@@ -2,52 +2,23 @@
   roles:
     - role: Security Engineer, IAM
       date: "September 2022 - Present"
-
+      details: "- Implemented a wholistic redesign of identity provider authentication policies, ensuring controls applied consistently to all users and applications.\n- Deployed phishing-resistant MFA factors to enable passwordless authentication flows. Enforced the use of high assurance (NIST AAL3) authenticators for highly privliged sessions.\n- Developed an infrastructure-as-code driven change management process for critical security controls.\n- Led the evalutation and contributed to the deployment of PAM tooling to support SaaS development teams.\n- Wrote identity governance policy and procedures to support compliance initiatives."
 - company: Ygrene Energy Fund
   roles:
     - role: IT System Administrator
       date: "March 2022 - July 2022"
-
-      details: "- Refined and validated Autopilot deployment profiles enabling zero-touch device deployment to remote users.
-
-      - Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.
-      
-      - Provision and configure Okta SSO for SaaS and self-hosted applications."
-
+      details: "- Refined and validated Autopilot deployment profiles enabling zero-touch device deployment to remote users.\n- Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.\n- Provisioned and configured Okta SSO for SaaS and self-hosted applications."
 - company: Spreckels Union School District
-  roles: 
+  roles:
     - role: Information Services Director
       date: "July 2015 - February 2022"
-    
     - role: District Technology Coordinator
       date: "July 2014 - June 2015"
-    
     - role: Technology Aide
       date: "September 2013 - June 2014"
-      
-      details: "Led the modernization of the District's technology program. Managed vendor relationships. Hired, supervised, and mentored Tier I support staff. Major initiatives include:
-      
-      - Developed data backup and disaster recovery processes. Identified a suitable Recovery Point Objective (RPO) and Recovery Time Objective (RTO).
-      
-      - Designed MFA and Conditional Access policies to secure high-value assets.
-      
-      - Automated user account creation, SSO enrollment, and SaaS application provisioning."
-
+      details: "Led the modernization of the District's technology program. Managed vendor relationships. Hired, supervised, and mentored Tier I support staff. Major initiatives include:\n- Developed data backup and disaster recovery processes. Identified a suitable Recovery Point Objective (RPO) and Recovery Time Objective (RTO).\n- Designed MFA and Conditional Access policies to secure high-value assets.\n- Automated user account creation, SSO enrollment, and SaaS application provisioning."
 - company: Loaves, Fishes & Computers
   roles:
     - role: Volunteer Technician
       date: "January 2013 - August 2013"
       # details: "Contributed to computer refurbishing operations, provided IT support to clients, and led computer repair workshops for youth in the community."
-      
-- company: TELUS World of Science - Edmonton
-  roles:
-    - role: Gallery Interpreter & Science Demonstrator
-      date: "December 2011 - August 2012"
-      # details: "Developed and delivered captivating demonstrations to showcase physics and chemistry concepts."
-
-- company: Catalina Island Marine Institute
-  roles:
-    - role: Marine Science Instructor
-      date: "January 2009 - November 2011"
-      # details: "Delivered an engaging and effective marine science education to students in an outdoor classroom setting. Provided A/V support to clients."
-      
