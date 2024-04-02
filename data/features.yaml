@@ -28,10 +28,12 @@ skills:
       - PIM
       - Lifecycle Management
       - B2B Federation
-  - groupName: Compliance Frameworks
+  - groupName: Frameworks/Benchmarks
     list:
+      - CIS
       - SOX
       - SOC2
+      - NIST 800-53
       - FedRAMP
   - groupName: Blue Team
     list:

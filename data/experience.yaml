@@ -1,13 +1,15 @@
 - company: Cradlepoint
   roles:
+    - role: Senior Information Security Engineer
+      date: April 2024 - Present
     - role: Security Engineer, IAM
-      date: "September 2022 - Present"
-      details: "- Implemented a wholistic redesign of key identity provider configurations using infrastucture-as-code tooling, ensuring controls are applied effectively across all users and applications. Continuously evaluate security controls and identify changes based on threat actor tactics.\n- Deployed phishing-resistant MFA factors, enabled passwordless authentication flows, and enforced the use of high assurance (NIST AAL3) authenticators for highly privileged sessions.\n- Led the evalutation and contributed to the deployment of PAM tooling to support SaaS development teams.\n- Evaluate and plan the implementation of identity governance tooling to automate access reviews and certifications in support of compliance initiatives.\n- Act as an identity and engineering SME in architectural and technical security reviews.\n- Defined a federation model to support B2B processes in a highly dynamic M&A environment."
+      date: "September 2022 - March 2024"
+      details: "- Implemented a wholistic redesign of key identity provider configurations using infrastucture-as-code tooling, ensuring controls are applied effectively across all users and applications. Deployed phishing-resistant MFA factors, enabled passwordless authentication flows, and enforced the use of high assurance (NIST AAL3) authenticators for highly privileged sessions.\n- Defined functional and technical requirements for PAM and IGA solutions.\n- Act as an identity and engineering SME in architectural/technical security reviews, control mapping, and in the development of policies, standards, and operating procedures.\n- Championed a federation model to support B2B processes and continuity in a highly dynamic M&A environment.\n- Onboard log sources for SIEM coverage. Identify, develop, and tune detection and threat hunting queries."
 - company: Ygrene Energy Fund
   roles:
     - role: IT System Administrator
       date: "March 2022 - July 2022"
-      details: "- Refined and validated Autopilot deployment profiles enabling zero-touch device deployment to remote users.\n- Packaged applications and PowerShell scripts for Intune deployment including applications with complex post-installation configuration tasks.\n- Provisioned and configured Okta SSO for SaaS and self-hosted applications."
+      details: "- Refined and validated Autopilot deployment profiles enabling zero-touch device deployment to remote users.\n- Packaged applications and PowerShell scripts for Intune deployment to automate complex post-installation configuration tasks.\n- Provisioned and configured Okta SSO for SaaS and self-hosted applications."
 - company: Spreckels Union School District
   roles:
     - role: Information Services Director
@@ -16,7 +18,7 @@
       date: "July 2014 - June 2015"
     - role: Technology Aide
       date: "September 2013 - June 2014"
-      details: "Led the modernization of the District's technology program. Managed vendor relationships. Hired, supervised, and mentored Tier I support staff. Major initiatives include:\n- Designed MFA and Conditional Access policies to secure high-value assets.\n- Automated user account creation, SSO enrollment, and SaaS application provisioning."
+      details: "- Led the modernization of the District's technology program. Managed vendor relationships. Hired, supervised, and mentored Tier I support staff.\n- Migrated directory services to Entra ID to support SaaS SSO, MFA, and zero-touch Autopilot deployment. Automated user lifecycle management and application provisioning.\n- Deployed and configured EDR solution.\n- Redesigned LAN/WAN reducing circuit spend. Deployed NGFW solution to support network segmentation and extranet services."
       # - company: Loaves, Fishes & Computers
   # roles:
   # - role: Volunteer Technician
